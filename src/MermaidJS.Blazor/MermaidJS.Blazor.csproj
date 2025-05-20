@@ -1,11 +1,11 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <Authors>JoshJohnson, TrueCommercePSG</Authors>
-    <Company>TrueCommerce, Inc</Company>
-    <Product>MermaidJS.Blazor</Product>
+    <Authors>Bikotoru</Authors>
+    <Company>Bikotoru</Company>
+    <Product>Mermaid.Blazor</Product>
     <Description>A simple MermaidDiagram component for Blazor.</Description>
     <Copyright>Copyright 2021, TrueCommerce, Inc</Copyright>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
